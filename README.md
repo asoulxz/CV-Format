@@ -36,7 +36,7 @@ The goal is to practice HTML structure, text formatting, and simple layout techn
 - This CV is made only with HTML for practice purposes.
 - The `<font>` and `<center>` tags are deprecated in HTML5 but used here as part of the exercise.
 - A modern version should use **CSS** for styling and layout.
-
+https://github.com/asoulxz/CV-Format
 ---
 
 ---
