@@ -38,7 +38,7 @@ The goal is to practice HTML structure, text formatting, and simple layout techn
 - A modern version should use **CSS** for styling and layout.
 https://github.com/asoulxz/CV-Format
 ---
-
+https://roadmap.sh/projects/single-page-cv
 ---
 
 ## 📌 Author
